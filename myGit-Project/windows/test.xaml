@@ -1,0 +1,25 @@
+﻿<Window x:Class="FileToText_WPF.windows.test"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:FileToText_WPF.windows"
+        mc:Ignorable="d"
+        Title="test" Height="450" Width="800">
+    <Grid>
+        <DockPanel FlowDirection="LeftToRight">
+            <Button DockPanel.Dock="Top" FontFamily="Vazir" Margin="2" Name="selectFileBtn">Select Your File(s)</Button>
+            <Label DockPanel.Dock="Top">Language:</Label>
+            <ComboBox DockPanel.Dock="Top" Name="listCountryNameCombo"></ComboBox>
+            <GroupBox DockPanel.Dock="Top">
+                <GroupBox.Header>
+                    <Label>Type of File</Label>
+                </GroupBox.Header>
+                <DockPanel>
+                    <RadioButton DockPanel.Dock="Left"   Name="pdfFileRadio">PDF</RadioButton>
+                    <RadioButton DockPanel.Dock="Left"   Name="imgFileRadio">IMG</RadioButton>
+                </DockPanel>
+            </GroupBox>
+        </DockPanel>
+    </Grid>
+</Window>

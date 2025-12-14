@@ -1,0 +1,9 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="FileToText_WPF.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="TesseractDataDir" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Program Files\Tesseract-OCR\tessdata</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

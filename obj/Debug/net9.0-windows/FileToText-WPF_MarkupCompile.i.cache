@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET9_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR_GREATER;NET7_0_OR_GREATER;NET8_0_OR_GREATER;NET9_0_OR_GREATER;NETCOREAPP3_0_OR_GREATER;NETCOREAPP3_1_OR_GREATER;WINDOWS7_0_OR_GREATER
 C:\Users\mostafa\source\repos\FileToText-WPF\FileToText-WPF\App.xaml
-12097403669
+5-549417594
 
-10-1000976955
-2542033447205
-windows\ConvertWin.xaml;
+232120696157
+2111222480570
+myGit-Project\App.xaml;myGit-Project\windows\ConvertWin.xaml;myGit-Project\windows\test.xaml;windows\ConvertWin.xaml;windows\test.xaml;
 
-True
+False
 

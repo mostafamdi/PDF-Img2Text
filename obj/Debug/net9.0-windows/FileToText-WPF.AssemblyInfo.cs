@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FileToText-WPF")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fa2bfa6e96951ec79e6d47e33860dd4041378deb")]
 [assembly: System.Reflection.AssemblyProductAttribute("FileToText-WPF")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FileToText-WPF")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
